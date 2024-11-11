@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Olá, me chamo Jonas Aquino<br><br>## Bem vindo ao meu perfil GitHub **devjonasaquino**👋<br><br><br>- 🔭 Atualmente estou trabalhando no Mestrado em Engenharia<br>         da Computação.<br>- 🌱 Atualmente estou aprendendo Desenvolvimento de Sistemas.<br>-<br>- <br>
+## Olá, me chamo Jonas Aquino<br><br>## Bem vindo ao meu perfil GitHub **devjonasaquino**👋<br><br><br>- 🔭 Atualmente estou trabalhando no Mestrado em Engenharia<br>         da Computação.<br>- 🌱 Atualmente Desenvolvendo Projetos em Sistemas Embarcados.<br>-<br>- <br>
 
 
 ## 🌐 Socials:
